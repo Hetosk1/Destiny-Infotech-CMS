@@ -1,0 +1,39 @@
+.container{
+    /* border: 1px solid black; */
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 20%;  
+    margin-right: 20%;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.login{
+    font-size: 200%;
+    padding: 2%;
+}
+
+.form input{
+    width: 95%;
+    border: 2px rgb(202, 202, 202) solid; 
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.login-button{
+    background-color: blue;
+    color: white;
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 2%;     
+    padding: 1%;
+    border-radius: 10px;
+    font-weight: 700;
+}
